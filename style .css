@@ -1,0 +1,132 @@
+.container{
+    width: 1244;
+}
+.info p{
+    line-height:9px ;
+}
+.topheader{
+    padding: 20px 0;
+}
+.mainheader{
+    background:#0071ef ;
+    padding: 5px 0;
+}
+.mainheader a{
+    color: #fff;
+    font-size:17px ;
+    font-weight: 600;
+    margin-right: 20px;
+}
+.mainheader a:hover{
+    color:#fff;
+}
+.search{
+    width: 300px;
+    background-color: #0071ef;
+    border-radius: 500px;
+    padding: 9px;
+}
+.search::placeholder{
+    color: #fff;
+}
+.banner{
+    background: url(./banner\ imag1.jpg);
+    padding: 200px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner h2{
+    font-size: 36px;
+    font-weight:500 ;
+}
+.banner h1{
+    font-size: 60px;
+    font-weight: 700;
+    margin: 10px 0;
+}
+.banner h1 span{
+    color:#0071ef ;
+}
+.banner button{
+    background: #0071ef;
+    color: #fff;
+    border: #0071ef;
+    padding: 5px 15px;
+    margin-top: 20px;
+
+}
+.sectiontitle h2{
+    font-weight: 600;
+    font-size: 35px;
+
+}
+.servicesection{
+    background: #f5f9ff;
+    padding: 130px 0;
+}
+.service{
+    background: #fff;
+    padding: 35px;
+    transition: .5s;
+}
+.services:hover{
+    box-shadow: -1.395px 19.951px 5px rgba(136,136,136,0.1);
+    transform: translateY(-5px);
+}
+.service h4{
+   margin: 10px 0;
+}
+.sectiontitle {
+    margin-bottom: 50px;
+}
+.desige{
+    background:#37c9dd ;
+    padding: 10px 15px;
+}
+.desigem {
+    background:#3fa5eb ;
+    padding: 10px 15px;
+}
+.desigemd {
+    background: #0383cd;
+    padding: 10px 15px;
+}
+.desigemr{
+    background:#3156a3 ;
+    padding: 10px 15px;
+}
+.contact{
+    margin-top: 10px;
+    padding: 10px 20px;
+    position: relative;
+}
+.contact p{
+    line-height: 10px;
+}
+.triangle {
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 0 8.5px 18px 8.5px;
+    border-color: transparent transparent #fff transparent;
+    transform: rotate(0deg);
+    position: absolute;
+    top: -21px;
+    left: 21px;
+ }
+ .temsection{
+    padding: 130px;
+ }
+ .offerimg img{
+    width: 100%;
+ }
+ .offerconten{
+    padding-right: 60px;
+    font-size: 17px;
+ }
+ .offerbtn{
+    border: 2px solid#0071ef;
+    padding: 10px 31px;
+ }
+
+
